@@ -331,7 +331,7 @@ input[type="checkbox"]{
 
 /* Mobile responsive Code */
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 600px){
     .container{
         width: 100%;
     }
