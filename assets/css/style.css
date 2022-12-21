@@ -411,7 +411,7 @@ input[type="checkbox"]{
         width: 70%;
     }
     .slick-prev:before{
-        background: url('/assets/images/leftrow.png');
+        background: url('../images/leftrow.png');
         width: 29px;
         height: 29px;
         font-size: 30px;
@@ -420,7 +420,7 @@ input[type="checkbox"]{
         background-repeat: no-repeat;
     }
     .slick-next:before{
-        background: url('/assets/images/rightarrow.png');
+        background: url('../images/rightarrow.png');
         font-size: 30px;
         color: transparent;
         width: 29px;
