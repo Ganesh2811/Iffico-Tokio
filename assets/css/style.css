@@ -18,7 +18,7 @@ body{
 /* header end */
 /* banner start */
 .bannerbg{
-    background: url('/assets/images/bannerbg.png') repeat-x;
+    background: url('../images/bannerbg.png') repeat-x;
     width:100%;
     height: 650px;
     
@@ -226,7 +226,7 @@ input[type="checkbox"]{
 .testimonial{
     width: 100%;
     height: 380px;
-    background: url('/assets/images/bluebg.png');
+    background: url('../images/bluebg.png');
     background-size: cover;
     background-repeat: no-repeat; 
     z-index: -1;  
