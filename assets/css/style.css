@@ -240,7 +240,7 @@ input[type="checkbox"]{
     font-weight: bold;
 }
 .testimonial-box{
-    background: url('../images/whitebg.svg');
+    background: url('../white-bg/whitebg.svg');
     width: 340px;
     height: 190px;
     position: relative;
